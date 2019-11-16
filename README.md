@@ -13,12 +13,12 @@ I made this simple app based off the link above, I wanted to become familiar wit
 
 ## Running the app
 To run the app make sure that you've installed Pillow and requests 
-'''bash
+```bash
 pip install requests
-'''
-'''bash
+```
+```bash
 pip install Pillow
-'''
+```
 
 ### Thanks Keith
 Thank you to Keith Galli for putting this tutorial online
